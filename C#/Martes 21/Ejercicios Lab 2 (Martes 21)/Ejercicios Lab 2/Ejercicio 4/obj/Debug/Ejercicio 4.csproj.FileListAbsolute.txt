@@ -1,0 +1,11 @@
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2\Ejercicios Lab 2\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2\Ejercicios Lab 2\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2\Ejercicios Lab 2\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2\Ejercicios Lab 2\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2\Ejercicios Lab 2\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2 (Martes 21)\Ejercicios Lab 2\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2 (Martes 21)\Ejercicios Lab 2\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2 (Martes 21)\Ejercicios Lab 2\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2 (Martes 21)\Ejercicios Lab 2\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2 (Martes 21)\Ejercicios Lab 2\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicios Lab 2 (Martes 21)\Ejercicios Lab 2\Ejercicio 4\bin\Debug\Ejercicio 4.pdb

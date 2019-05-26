@@ -1,0 +1,12 @@
+C:\Users\educacionit\Desktop\MM\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\educacionit\Desktop\MM\Funciones\bin\Debug\Funciones.exe
+C:\Users\educacionit\Desktop\MM\Funciones\bin\Debug\Funciones.pdb
+C:\Users\educacionit\Desktop\MM\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\MM\Funciones\obj\Debug\Funciones.exe
+C:\Users\educacionit\Desktop\MM\Funciones\obj\Debug\Funciones.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Funciones (Instructor)\bin\Debug\Funciones.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Funciones (Instructor)\obj\Debug\Funciones.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Funciones (Instructor)\obj\Debug\Funciones.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Funciones (Instructor)\bin\Debug\Funciones.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Funciones (Instructor)\bin\Debug\Funciones.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Funciones (Instructor)\obj\Debug\Funciones.csprojResolveAssemblyReference.cache

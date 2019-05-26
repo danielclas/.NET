@@ -1,0 +1,6 @@
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercitacion Arreglos\bin\Debug\Ejercitacion Arreglos.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercitacion Arreglos\bin\Debug\Ejercitacion Arreglos.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercitacion Arreglos\bin\Debug\Ejercitacion Arreglos.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercitacion Arreglos\obj\Debug\Ejercitacion Arreglos.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercitacion Arreglos\obj\Debug\Ejercitacion Arreglos.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercitacion Arreglos\obj\Debug\Ejercitacion Arreglos.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 3\bin\Debug\Ejercicio For Lab 3 Ejercicio 3.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 3\bin\Debug\Ejercicio For Lab 3 Ejercicio 3.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 3\bin\Debug\Ejercicio For Lab 3 Ejercicio 3.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 3\obj\Debug\Ejercicio For Lab 3 Ejercicio 3.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 3\obj\Debug\Ejercicio For Lab 3 Ejercicio 3.pdb

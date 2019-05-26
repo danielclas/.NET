@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicio Promedios\bin\Debug\Ejercicio Promedios.exe.config
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicio Promedios\bin\Debug\Ejercicio Promedios.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicio Promedios\bin\Debug\Ejercicio Promedios.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicio Promedios\obj\Debug\Ejercicio Promedios.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicio Promedios\obj\Debug\Ejercicio Promedios.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Ejercicio Promedios\obj\Debug\Ejercicio Promedios.csprojResolveAssemblyReference.cache

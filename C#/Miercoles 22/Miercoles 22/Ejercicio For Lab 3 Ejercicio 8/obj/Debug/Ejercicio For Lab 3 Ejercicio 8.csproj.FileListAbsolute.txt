@@ -1,0 +1,6 @@
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 8\bin\Debug\Ejercicio For Lab 3 Ejercicio 8.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 8\bin\Debug\Ejercicio For Lab 3 Ejercicio 8.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 8\bin\Debug\Ejercicio For Lab 3 Ejercicio 8.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 8\obj\Debug\Ejercicio For Lab 3 Ejercicio 8.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 8\obj\Debug\Ejercicio For Lab 3 Ejercicio 8.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Ejercicio For Lab 3 Ejercicio 8\obj\Debug\Ejercicio For Lab 3 Ejercicio 8.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Ejercicio Evaluatorio Ej. 2\Ejercicio Evaluatorio Ej. 2\bin\Debug\Ejercicio Evaluatorio Ej. 2.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Ejercicio Evaluatorio Ej. 2\Ejercicio Evaluatorio Ej. 2\bin\Debug\Ejercicio Evaluatorio Ej. 2.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Ejercicio Evaluatorio Ej. 2\Ejercicio Evaluatorio Ej. 2\bin\Debug\Ejercicio Evaluatorio Ej. 2.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Ejercicio Evaluatorio Ej. 2\Ejercicio Evaluatorio Ej. 2\obj\Debug\Ejercicio Evaluatorio Ej. 2.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Ejercicio Evaluatorio Ej. 2\Ejercicio Evaluatorio Ej. 2\obj\Debug\Ejercicio Evaluatorio Ej. 2.pdb

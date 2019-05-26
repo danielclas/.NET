@@ -1,0 +1,6 @@
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Ejercicio 1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Jueves 23\Jueves 23\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

@@ -1,0 +1,6 @@
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Miercoles 22\bin\Debug\Miercoles 22.exe.config
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Miercoles 22\bin\Debug\Miercoles 22.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Miercoles 22\bin\Debug\Miercoles 22.pdb
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Miercoles 22\obj\Debug\Miercoles 22.csprojResolveAssemblyReference.cache
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Miercoles 22\obj\Debug\Miercoles 22.exe
+E:\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Miercoles 22\Miercoles 22\Miercoles 22\obj\Debug\Miercoles 22.pdb

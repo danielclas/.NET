@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\ConsoleApplication1\obj\Debug\Martes 21.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

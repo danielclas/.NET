@@ -1,0 +1,12 @@
+D:\Daniel Clas\C#\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+D:\Daniel Clas\C#\Hola Mundo\bin\Debug\Hola Mundo.exe
+D:\Daniel Clas\C#\Hola Mundo\bin\Debug\Hola Mundo.pdb
+D:\Daniel Clas\C#\Hola Mundo\obj\Debug\Hola Mundo.csprojResolveAssemblyReference.cache
+D:\Daniel Clas\C#\Hola Mundo\obj\Debug\Hola Mundo.exe
+D:\Daniel Clas\C#\Hola Mundo\obj\Debug\Hola Mundo.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Hola Mundo\obj\Debug\Hola Mundo.pdb
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Hola Mundo\obj\Debug\Hola Mundo.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\Users\educacionit\Desktop\Daniel Clas-20190521T120558Z-001\Daniel Clas\C#\Hola Mundo\bin\Debug\Hola Mundo.pdb
