@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Jueves 30 - POO\bin\Debug\Jueves 30 - POO.exe.config
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Jueves 30 - POO\bin\Debug\Jueves 30 - POO.exe
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Jueves 30 - POO\bin\Debug\Jueves 30 - POO.pdb
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Jueves 30 - POO\obj\Debug\Jueves 30 - POO.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Jueves 30 - POO\obj\Debug\Jueves 30 - POO.exe
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Jueves 30 - POO\obj\Debug\Jueves 30 - POO.pdb

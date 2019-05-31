@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\PruebaPersona\PruebaPersona\bin\Debug\PruebaPersona.exe.config
+C:\Users\educacionit\Desktop\PruebaPersona\PruebaPersona\obj\Debug\PruebaPersona.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\PruebaPersona\PruebaPersona\bin\Debug\PruebaPersona.exe
+C:\Users\educacionit\Desktop\PruebaPersona\PruebaPersona\bin\Debug\PruebaPersona.pdb
+C:\Users\educacionit\Desktop\PruebaPersona\PruebaPersona\obj\Debug\PruebaPersona.exe
+C:\Users\educacionit\Desktop\PruebaPersona\PruebaPersona\obj\Debug\PruebaPersona.pdb

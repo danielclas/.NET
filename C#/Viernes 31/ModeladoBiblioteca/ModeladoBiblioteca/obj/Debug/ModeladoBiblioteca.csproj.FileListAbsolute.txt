@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\Clas\Viernes31\ModeladoBiblioteca\ModeladoBiblioteca\bin\Debug\ModeladoBiblioteca.exe.config
+C:\Users\educacionit\Desktop\Clas\Viernes31\ModeladoBiblioteca\ModeladoBiblioteca\bin\Debug\ModeladoBiblioteca.exe
+C:\Users\educacionit\Desktop\Clas\Viernes31\ModeladoBiblioteca\ModeladoBiblioteca\bin\Debug\ModeladoBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clas\Viernes31\ModeladoBiblioteca\ModeladoBiblioteca\obj\Debug\ModeladoBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clas\Viernes31\ModeladoBiblioteca\ModeladoBiblioteca\obj\Debug\ModeladoBiblioteca.exe
+C:\Users\educacionit\Desktop\Clas\Viernes31\ModeladoBiblioteca\ModeladoBiblioteca\obj\Debug\ModeladoBiblioteca.pdb

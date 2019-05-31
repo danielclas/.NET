@@ -1,0 +1,5 @@
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Try Catch\bin\Debug\Try Catch.exe.config
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Try Catch\bin\Debug\Try Catch.exe
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Try Catch\bin\Debug\Try Catch.pdb
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Try Catch\obj\Debug\Try Catch.exe
+C:\Users\educacionit\Desktop\Jueves 30 - POO\Try Catch\obj\Debug\Try Catch.pdb
