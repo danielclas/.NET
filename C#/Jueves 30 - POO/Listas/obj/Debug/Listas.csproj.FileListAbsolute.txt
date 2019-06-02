@@ -9,3 +9,10 @@ C:\Users\educacionit\Desktop\Clas\Jueves 30 - POO\Listas\obj\Debug\Listas.pdb
 C:\Users\educacionit\Desktop\Clas\Jueves 30 - POO\Listas\bin\Debug\Listas.exe
 C:\Users\educacionit\Desktop\Clas\Jueves 30 - POO\Listas\bin\Debug\Listas.pdb
 C:\Users\educacionit\Desktop\Clas\Jueves 30 - POO\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\bin\Debug\Listas.exe.config
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\bin\Debug\Listas.exe
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\bin\Debug\Listas.pdb
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\obj\Debug\Listas.exe
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\obj\Debug\Listas.pdb
+C:\Users\Dani\Desktop\Curso\.NET\C#\Jueves 30 - POO\Listas\obj\Debug\Listas.csprojAssemblyReference.cache

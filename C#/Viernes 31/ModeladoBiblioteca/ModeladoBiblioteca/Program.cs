@@ -10,44 +10,31 @@ namespace ModeladoBiblioteca
     {
         static void Main(string[] args)
         {
-            libro book = new libro() {paginas=255, titulo="Superman", generoLibro.descGenero="Comic"};
+            libro book = new libro();                      
 
-        /*public autor autorLibro;
-        public genero generoLibro;
-        public editorial editorialLibro;
-        public string titulo { get; set; }
-        public int paginas { get; set; }
-        static int id = 1000;
-        public int idLibro { get { return idLibro; } set { idLibro = id; id++; } }*/
+            book.titulo = "El Aleph";
+            book.paginas = 215;
+            book.autorLibro.autorNombre = "Jorge Luis";
+            book.autorLibro.autorApellido = "Borges";
+            book.generoLibro.descGenero = "Cuentos";
+            book.editorialLibro.descEditorial = "Planeta";            
 
-        List<genero> genList = new List<genero>()
-            {
-                new genero() {descGenero="Novela"},
-                new genero() {descGenero="Teatro"},
-                new genero() {descGenero="Sci-Fi"},
-                new genero() {descGenero="Historia"},
-                new genero() {descGenero="Comic"},
+            List<libro> bookList = new List<libro>() {
+                new libro("Paulo", "Coelho", "Novela", "Pengüin"){titulo="El Alquimista", paginas=330},
+                new libro("Juan", "Galan", "Historia", "VOX"){titulo="1ra. Guerra Mundial", paginas=700},
+                new libro("Julio", "Cortazar", "Novela", "ABC"){titulo="Rayuela", paginas=620},
+                new libro("Ernesto", "Sabato", "Novela", "La Nacion"){titulo="El Tunel", paginas=270},
+                new libro("Stan", "Lee", "Comic", "Marvel"){titulo="Superman", paginas=330}
             };
 
-            List<autor> autList = new List<autor>()
+            Console.WriteLine("{0,-20}{1,-20}{2,-20}{3,-10}{4,-20}", "Titulo", "Autor", "Genero", "Paginas", "Editorial");
+            Console.WriteLine("\n{0,-20}{1,-20}{2,-20}{3,-10}{4,-20}", book.titulo, book.autorLibro.autorNombre + " " + book.autorLibro.autorApellido, book.generoLibro.descGenero, book.paginas, book.editorialLibro.descEditorial);
+            foreach (var item in bookList)
             {
-                new autor() {autorNombre="Stan", autorApellido="Lee"},
-                new autor() {autorNombre="Gabriel Garcia", autorApellido="Marquez"},
-                new autor() {autorNombre="Jorge Luis", autorApellido="Borges"},
-                new autor() {autorNombre="Felipe", autorApellido="Pigna"},
-                new autor() {autorNombre="Oscar", autorApellido="Wilde"},
-            };
+                Console.WriteLine("\n{0,-20}{1,-20}{2,-20}{3,-10}{4,-20}", item.titulo, item.autorLibro.autorNombre+" "+item.autorLibro.autorApellido, item.generoLibro.descGenero, item.paginas, item.editorialLibro.descEditorial);
+            }
 
-            List<editorial> edList = new List<editorial>()
-            {
-                new editorial() {descEditorial="VOX"},
-                new editorial() {descEditorial="Planeta"},
-                new editorial() {descEditorial="ABC"},
-                new editorial() {descEditorial="La Nacion"},
-                new editorial() {descEditorial="Gredos"},
-            };
-
-
+            Console.ReadKey();          
 
 
 
