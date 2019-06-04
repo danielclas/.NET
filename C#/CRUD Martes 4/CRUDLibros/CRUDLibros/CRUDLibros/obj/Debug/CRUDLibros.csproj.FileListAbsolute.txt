@@ -1,0 +1,99 @@
+D:\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.csprojResolveAssemblyReference.cache
+D:\CRUDLibros\CRUDLibros\bin\ApplicationInsights.config
+D:\CRUDLibros\CRUDLibros\bin\roslyn\csc.exe
+D:\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CRUDLibros\CRUDLibros\bin\roslyn\System.Collections.Immutable.dll
+D:\CRUDLibros\CRUDLibros\bin\roslyn\System.Reflection.Metadata.dll
+D:\CRUDLibros\CRUDLibros\bin\roslyn\vbc.exe
+D:\CRUDLibros\CRUDLibros\bin\roslyn\VBCSCompiler.exe
+D:\CRUDLibros\CRUDLibros\bin\roslyn\VBCSCompiler.exe.config
+D:\CRUDLibros\CRUDLibros\bin\CRUDLibros.dll.config
+D:\CRUDLibros\CRUDLibros\bin\CRUDLibros.dll
+D:\CRUDLibros\CRUDLibros\bin\CRUDLibros.pdb
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.DependencyCollector.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Web.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.WindowsServer.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.ApplicationInsights.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.DependencyCollector.xml
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Web.xml
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.AI.WindowsServer.xml
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.ApplicationInsights.xml
+D:\CRUDLibros\CRUDLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.dll
+D:\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.pdb
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\ApplicationInsights.config
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\csc.exe
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\vbc.exe
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\CRUDLibros.dll.config
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\CRUDLibros.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\CRUDLibros.pdb
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Web.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.ApplicationInsights.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Web.xml
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.ApplicationInsights.xml
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.dll
+C:\Users\educacionit\Desktop\CRUDLibros\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.pdb
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\ApplicationInsights.config
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\csc.exe
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\vbc.exe
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\CRUDLibros.dll.config
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\CRUDLibros.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\CRUDLibros.pdb
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Web.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.ApplicationInsights.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.Web.xml
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.ApplicationInsights.xml
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.dll
+C:\Users\educacionit\Desktop\Nueva carpeta\.NET\C#\CRUD Martes 4\CRUDLibros\CRUDLibros\CRUDLibros\obj\Debug\CRUDLibros.pdb
